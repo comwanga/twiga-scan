@@ -11,7 +11,7 @@ A comprehensive platform for scanning, validating, and authenticating Bitcoin an
 
 ## 🌐 Live Demo
 
-**Production App:** [https://mwangaza-lab.github.io/twiga-scan/](https://mwangaza-lab.github.io/twiga-scan/)
+**Production App:** [https://mwangaza-lab.github.io/twiga-scan/](https://comwanga.github.io/twiga-scan/)
 
 <img width="1218" height="611" alt="Twiga Scan Interface" src="https://github.com/user-attachments/assets/198b50b8-11ad-49a2-9e17-e889de7d0c07" />
 
